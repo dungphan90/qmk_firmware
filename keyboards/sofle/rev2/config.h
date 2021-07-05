@@ -7,7 +7,9 @@
 #define MANUFACTURER    Keyhive
 #define PRODUCT         Sharon
 #define DESCRIPTION     Rose version of the Sofle
-#define MASTER_LEFT
+
+#define EE_HANDS
+//#define MASTER_LEFT
 
 /* key matrix size */
 // Rows are doubled-up
